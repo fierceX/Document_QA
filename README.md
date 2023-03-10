@@ -25,7 +25,7 @@
 
 主要依赖
 ```
-failss
+faiss
 numpy
 openai
 ```
